@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Full adder forms sum of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "2 bits",
+        "b": "4 bits",
+        "c": "8 bits",
+        "d": "all the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,30 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "EPROM stands for?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Electrical Programmable Read Only Memory",
+        "b": "Electrical Portable Read Only Memory",
+        "c": "Erasable Portable Read Only Memory",
+        "d": "Erasable Programmable Read Only Memory"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "Subtraction of binary numbers can be done conveniently with",
+      "answers": {
+        "a": "high cost circuit",
+        "b": "low cost circuit",
+        "c": "complements",
+        "d": "borrows"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
