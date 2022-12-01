@@ -1,4 +1,4 @@
-### Link your theory in here
+## Theory
 
  <div class="content" id="experiment-article-section-2-content">                            
                             <div align="center" class="big" style="text-decoration:underline;" > Part I </div>
