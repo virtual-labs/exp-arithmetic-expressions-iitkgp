@@ -1,5 +1,4 @@
 ## Theory
-
  <div class="content" id="experiment-article-section-2-content">                            
                             <div align="center" class="big" style="text-decoration:underline;" > Part I </div>
                       IC 7483 is 4-bit binary full adder which accepts two 4-bit binary words A<sub>3</sub>A<sub>2</sub>A<sub>1</sub>A<sub>0</sub> and B<sub>3</sub>B<sub>2</sub>B<sub>1</sub>B<sub>0</sub> and a carry input (C<sub>0</sub>) as inputs and produces a 4-bit binary sum output S<sub>3</sub>S<sub>2</sub>S<sub>1</sub>S<sub>0</sub> and a carry output C<sub>4</sub>.
@@ -12,7 +11,6 @@
                             <br />
                              </div>
      The students of virtual DEC Laboratory can verify the functionality of the 7483 chip.Although in principle,there can be 2<sup>9</sup>=512 input paterns possible,the students can verify all zero,all one and some other patterns.<br />
-
  
  </div>
                                                      <div align="center" class="big" style="text-decoration:underline" > Part II </div>
