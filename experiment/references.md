@@ -7,6 +7,6 @@
 - Digital Systems: Principles and Applications, Neal S. Widmer , Ronald J. Tocci , Gregory L. Moss
 
 ### Video Lectures:
-- [Arithmetic Circuits] (http://nptel.ac.in/courses/117106086/11)
-- [Arithmetic Circuits] (http://nptel.ac.in/courses/117106086/12)
-- [Subtractors] (http://nptel.ac.in/courses/117106086/13)
+- [Arithmetic Circuits](http://nptel.ac.in/courses/117106086)
+- [Arithmetic Circuits](http://nptel.ac.in/courses/117106086)
+- [Subtractors](http://nptel.ac.in/courses/117106086)
