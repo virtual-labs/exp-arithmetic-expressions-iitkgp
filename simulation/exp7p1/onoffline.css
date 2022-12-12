@@ -1,0 +1,513 @@
+/*Lab:exp_7_Part1_Adder/subtractor
+	File name: onoffline.css
+    Author:Sukriti Dhang */
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .column {
+    width: 100%;
+  }
+  .div{
+  width: 100%;
+  }
+  .mimg{
+  width:100%;
+  }
+  .img{
+  width:100%;
+  }
+}
+
+
+.mimg{
+    
+    width:675px;
+	/*width:100%;*/
+   
+    
+
+}
+
+#b1{
+	position:absolute;
+	top: 80px;
+    right: 563px;
+    background: transparent
+    
+}
+
+#b2{
+	position: absolute;
+	top: 80px;
+    right: 530px;
+    
+    
+}
+ #b3{
+	position: absolute;
+	top:80px;
+    right: 500px;
+    
+    
+    
+}
+#b4{
+	position: absolute;
+	top: 80px;
+    right: 475px;
+    
+    
+}
+#b5{
+	position: absolute;
+	top: 80px;
+    right: 428px;
+    
+    
+}
+
+
+#b6{
+	position: absolute;
+	top: 80px;
+    right: 350px;
+    
+    
+    
+}
+#b7{
+	position: absolute;
+	top:80px;
+    right: 315px;
+    
+    
+}
+#b8{
+	position: absolute;
+	top: 80px;
+    right: 130px;
+    
+    
+}
+#b9{
+	position: absolute;
+	top: 55px;
+    right: 95px;
+    
+    
+}
+#b10{
+	position: absolute;
+	top: 55px;
+    right: 65px;
+    
+    
+}
+#b11{
+	position: absolute;
+	top: 52px;
+    right: 40px;
+    
+    
+}
+
+
+
+
+#b1r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(48deg); 
+top: 10px;
+right: 590px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b1g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-60deg); 
+position: absolute;
+top: 25px;
+right: 570px;
+display:none;
+}
+
+#b2r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(60deg); 
+top: 10px;
+right: 555px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b2g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-65deg); 
+position: absolute;
+top: 25px;
+right: 535px;
+display:none;
+}
+
+#b3r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(62deg); 
+top: 10px;
+right: 524px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b3g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-65deg); 
+position: absolute;
+top: 25px;
+right: 505px;
+display:none;
+}
+
+#b4r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(52deg); 
+top: 10px;
+right: 504px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b4g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-65deg); 
+position: absolute;
+top: 25px;
+right: 485px;
+display:none;
+}
+
+#b5r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(65deg); 
+top: 10px;
+right: 460px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b5g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-70deg); 
+position: absolute;
+top: 25px;
+right: 440px;
+display:none;
+}
+
+#b6r
+{
+height: 20px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(62deg); 
+top: 10px;
+right: 382px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b6g
+{
+height: 20px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-70deg); 
+position: absolute;
+top: 25px;
+right: 360px;
+display:none;
+}
+
+#b7r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(60deg); 
+top: 10px;
+right: 345px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b7g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-75deg); 
+position: absolute;
+top: 25px;
+right: 325px;
+display:none;
+}
+#b8r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(60deg); 
+top: 10px;
+right: 160px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b8g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-75deg); 
+position: absolute;
+top: 25px;
+right: 140px;
+display:none;
+}
+#b9r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(60deg); 
+top: 10px;
+right: 130px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b9g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-75deg); 
+position: absolute;
+top: 25px;
+right: 110px;
+display:none;
+}
+
+#b10r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(60deg); 
+top: 10px;
+right: 95px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b10g
+{
+height: 20px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-75deg); 
+position: absolute;
+top: 25px;
+right: 78px;
+display:none;
+}
+#b11r
+{
+height: 19px;
+border-right: 4px solid red;
+position: absolute;
+-webkit-transform:
+            translateY(10px)
+            translateX(10px)
+            rotate(60deg); 
+top: 10px;
+right: 72px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b11g
+{
+height: 17px;
+border-right: 4px solid green;
+-webkit-transform:
+            translateY(-10px)
+            translateX(-10px)
+            rotate(-75deg); 
+position: absolute;
+top: 25px;
+right: 50px;
+display:none;
+}
+
+
+/*ledonoff*/
+
+#s0on{
+	position: absolute;
+	top: 383px;
+    right: 98px;
+    
+    
+}
+#s1on{
+	position: absolute;
+	top: 324px;
+    right: 375px;
+    
+    
+}
+#s2on{
+	position: absolute;
+	top: 213px;
+    right: 370px;
+    
+    
+}
+
+#s3on{
+	position: absolute;
+	top: 200px;
+    right: 72px;
+    
+    
+}
+
+#s3c4onon{
+	position: absolute;
+	top: 196px;
+    right: 97px;
+	/*height:65px;*/
+	background:transparent;
+    
+    
+}
+#s3c4offon{
+	position: absolute;
+	top: 204px;
+    right: 97px;
+	background:transparent;
+    
+    
+}
