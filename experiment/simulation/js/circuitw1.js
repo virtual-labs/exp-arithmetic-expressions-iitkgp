@@ -64,7 +64,7 @@ function ledchng(){
   
   
   
-  if(image3.getAttribute('src')=="images/on.png"
+  if(image3.getAttribute('src')=="images/on.png")
 	{
 		document.getElementById("s0on").src="images/s0.png";
 		document.getElementById("s0on").style.visibility = 'hidden';
