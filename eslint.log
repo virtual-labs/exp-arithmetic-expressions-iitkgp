@@ -1,0 +1,198 @@
+
+/home/runner/work/exp-arithmetic-expressions-iitkgp/exp-arithmetic-expressions-iitkgp/experiment/simulation/js/circuitw1.js
+    9:5   warning  'Ainp3' is assigned a value but never used   no-unused-vars
+    9:14  warning  'Ainp2' is assigned a value but never used   no-unused-vars
+    9:23  warning  'Ainp1' is assigned a value but never used   no-unused-vars
+    9:32  warning  'Ainp0' is assigned a value but never used   no-unused-vars
+   10:5   warning  'Binp3' is assigned a value but never used   no-unused-vars
+   10:14  warning  'Binp2' is assigned a value but never used   no-unused-vars
+   10:23  warning  'Binp1' is assigned a value but never used   no-unused-vars
+   10:32  warning  'Binp0' is assigned a value but never used   no-unused-vars
+   23:9   warning  'image8' is assigned a value but never used  no-unused-vars
+  283:10  warning  'a1' is defined but never used               no-unused-vars
+  303:10  warning  'a2' is defined but never used               no-unused-vars
+  321:10  warning  'a3' is defined but never used               no-unused-vars
+  339:10  warning  'a4' is defined but never used               no-unused-vars
+  358:10  warning  'a5' is defined but never used               no-unused-vars
+  376:10  warning  'a6' is defined but never used               no-unused-vars
+  394:10  warning  'a7' is defined but never used               no-unused-vars
+  412:10  warning  'a8' is defined but never used               no-unused-vars
+  430:10  warning  'a9' is defined but never used               no-unused-vars
+  448:10  warning  'a10' is defined but never used              no-unused-vars
+  466:10  warning  'a11' is defined but never used              no-unused-vars
+  525:2   warning  'dec_sum' is not defined                     no-undef
+  527:18  warning  'dec_sum' is not defined                     no-undef
+  546:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  547:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  547:8   warning  'i' is not defined                           no-undef
+  547:12  warning  'i' is not defined                           no-undef
+  547:16  warning  'i' is not defined                           no-undef
+  548:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  549:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  550:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  551:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  552:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  553:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  554:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  555:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  556:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  557:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  558:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  559:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  560:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  563:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  568:1   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  571:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  572:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  573:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  574:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  575:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  629:10  warning  'addtotable' is defined but never used       no-unused-vars
+  631:5   warning  'inputa' is not defined                      no-undef
+  632:5   warning  'inputb' is not defined                      no-undef
+  633:5   warning  'outputsum' is not defined                   no-undef
+  635:11  warning  'inputa' is not defined                      no-undef
+  636:11  warning  'inputa' is not defined                      no-undef
+  637:11  warning  'inputa' is not defined                      no-undef
+  638:11  warning  'inputa' is not defined                      no-undef
+  639:11  warning  'inputb' is not defined                      no-undef
+  640:11  warning  'inputb' is not defined                      no-undef
+  641:11  warning  'inputb' is not defined                      no-undef
+  642:11  warning  'inputb' is not defined                      no-undef
+  643:11  warning  'outputsum' is not defined                   no-undef
+  644:11  warning  'outputsum' is not defined                   no-undef
+  645:12  warning  'outputsum' is not defined                   no-undef
+  646:12  warning  'outputsum' is not defined                   no-undef
+  647:12  warning  'outputsum' is not defined                   no-undef
+
+/home/runner/work/exp-arithmetic-expressions-iitkgp/exp-arithmetic-expressions-iitkgp/experiment/simulation/js/circuitw2.js
+   11:5   warning  'c4' is assigned a value but never used                                                                                no-unused-vars
+   16:9   warning  'image1' is assigned a value but never used                                                                            no-unused-vars
+   17:9   warning  'image2' is assigned a value but never used                                                                            no-unused-vars
+   19:9   warning  'image4' is assigned a value but never used                                                                            no-unused-vars
+   20:9   warning  'image5' is assigned a value but never used                                                                            no-unused-vars
+   21:9   warning  'image6' is assigned a value but never used                                                                            no-unused-vars
+   22:9   warning  'image7' is assigned a value but never used                                                                            no-unused-vars
+   23:9   warning  'image8' is assigned a value but never used                                                                            no-unused-vars
+   25:9   warning  'image10' is assigned a value but never used                                                                           no-unused-vars
+   26:9   warning  'image11' is assigned a value but never used                                                                           no-unused-vars
+   28:9   warning  'image12' is assigned a value but never used                                                                           no-unused-vars
+   29:9   warning  'image13' is assigned a value but never used                                                                           no-unused-vars
+   31:9   warning  'image15' is assigned a value but never used                                                                           no-unused-vars
+   32:9   warning  'image16' is assigned a value but never used                                                                           no-unused-vars
+   33:9   warning  'image17' is assigned a value but never used                                                                           no-unused-vars
+   34:9   warning  'image18' is assigned a value but never used                                                                           no-unused-vars
+   35:9   warning  'image19' is assigned a value but never used                                                                           no-unused-vars
+   37:9   warning  'image21' is assigned a value but never used                                                                           no-unused-vars
+   38:6   warning  'image22' is assigned a value but never used                                                                           no-unused-vars
+   67:12  warning  This branch can never execute. Its condition is a duplicate or covered by previous conditions in the if-else-if chain  no-dupe-else-if
+   73:12  warning  This branch can never execute. Its condition is a duplicate or covered by previous conditions in the if-else-if chain  no-dupe-else-if
+   77:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+   79:12  warning  This branch can never execute. Its condition is a duplicate or covered by previous conditions in the if-else-if chain  no-dupe-else-if
+   83:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+   85:12  warning  This branch can never execute. Its condition is a duplicate or covered by previous conditions in the if-else-if chain  no-dupe-else-if
+   89:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+   91:1   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  136:10  warning  'a1' is defined but never used                                                                                         no-unused-vars
+  156:10  warning  'a2' is defined but never used                                                                                         no-unused-vars
+  174:10  warning  'a3' is defined but never used                                                                                         no-unused-vars
+  181:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  192:10  warning  'a4' is defined but never used                                                                                         no-unused-vars
+  211:10  warning  'a5' is defined but never used                                                                                         no-unused-vars
+  229:10  warning  'a6' is defined but never used                                                                                         no-unused-vars
+  247:10  warning  'a7' is defined but never used                                                                                         no-unused-vars
+  265:10  warning  'a8' is defined but never used                                                                                         no-unused-vars
+  272:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  283:10  warning  'a9' is defined but never used                                                                                         no-unused-vars
+  301:10  warning  'a10' is defined but never used                                                                                        no-unused-vars
+  319:10  warning  'a11' is defined but never used                                                                                        no-unused-vars
+  337:10  warning  'a12' is defined but never used                                                                                        no-unused-vars
+  357:10  warning  'a13' is defined but never used                                                                                        no-unused-vars
+  376:10  warning  'a14' is defined but never used                                                                                        no-unused-vars
+  395:10  warning  'a15' is defined but never used                                                                                        no-unused-vars
+  413:10  warning  'a16' is defined but never used                                                                                        no-unused-vars
+  431:10  warning  'a17' is defined but never used                                                                                        no-unused-vars
+  449:10  warning  'a18' is defined but never used                                                                                        no-unused-vars
+  467:10  warning  'a19' is defined but never used                                                                                        no-unused-vars
+  474:4   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  485:10  warning  'a20' is defined but never used                                                                                        no-unused-vars
+  492:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  503:10  warning  'a21' is defined but never used                                                                                        no-unused-vars
+  521:10  warning  'a22' is defined but never used                                                                                        no-unused-vars
+  579:2   warning  'dec_sum' is not defined                                                                                               no-undef
+  581:18  warning  'dec_sum' is not defined                                                                                               no-undef
+  600:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  601:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  601:8   warning  'i' is not defined                                                                                                     no-undef
+  601:12  warning  'i' is not defined                                                                                                     no-undef
+  601:16  warning  'i' is not defined                                                                                                     no-undef
+  602:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  603:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  604:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  605:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  606:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  607:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  608:4   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  609:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  610:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  611:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  612:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  613:4   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  614:3   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  617:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  622:1   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  626:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  626:4   warning  'c8' is not defined                                                                                                    no-undef
+  627:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  627:4   warning  's7' is not defined                                                                                                    no-undef
+  628:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  628:4   warning  's6' is not defined                                                                                                    no-undef
+  629:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  629:4   warning  's5' is not defined                                                                                                    no-undef
+  630:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  630:4   warning  's4' is not defined                                                                                                    no-undef
+  631:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  632:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  633:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  634:2   warning  Mixed spaces and tabs                                                                                                  no-mixed-spaces-and-tabs
+  638:12  warning  'c8' is not defined                                                                                                    no-undef
+  638:21  warning  's7' is not defined                                                                                                    no-undef
+  647:6   warning  's7' is not defined                                                                                                    no-undef
+  647:13  warning  'c8' is not defined                                                                                                    no-undef
+  655:12  warning  's6' is not defined                                                                                                    no-undef
+  663:12  warning  's5' is not defined                                                                                                    no-undef
+  671:12  warning  's4' is not defined                                                                                                    no-undef
+  711:6   warning  'c8' is not defined                                                                                                    no-undef
+  711:15  warning  's7' is not defined                                                                                                    no-undef
+  722:10  warning  'addtotable' is defined but never used                                                                                 no-unused-vars
+  724:5   warning  'inputa' is not defined                                                                                                no-undef
+  725:5   warning  'inputb' is not defined                                                                                                no-undef
+  726:5   warning  'outputsum' is not defined                                                                                             no-undef
+  728:11  warning  'inputa' is not defined                                                                                                no-undef
+  729:11  warning  'inputa' is not defined                                                                                                no-undef
+  730:11  warning  'inputa' is not defined                                                                                                no-undef
+  731:11  warning  'inputa' is not defined                                                                                                no-undef
+  732:11  warning  'inputa' is not defined                                                                                                no-undef
+  733:11  warning  'inputa' is not defined                                                                                                no-undef
+  734:11  warning  'inputa' is not defined                                                                                                no-undef
+  735:11  warning  'inputa' is not defined                                                                                                no-undef
+  736:11  warning  'inputb' is not defined                                                                                                no-undef
+  737:11  warning  'inputb' is not defined                                                                                                no-undef
+  738:12  warning  'inputb' is not defined                                                                                                no-undef
+  739:12  warning  'inputb' is not defined                                                                                                no-undef
+  740:12  warning  'inputb' is not defined                                                                                                no-undef
+  741:12  warning  'inputb' is not defined                                                                                                no-undef
+  742:12  warning  'inputb' is not defined                                                                                                no-undef
+  743:12  warning  'inputb' is not defined                                                                                                no-undef
+  745:12  warning  'outputsum' is not defined                                                                                             no-undef
+  746:12  warning  'outputsum' is not defined                                                                                             no-undef
+  747:12  warning  'outputsum' is not defined                                                                                             no-undef
+  748:12  warning  'outputsum' is not defined                                                                                             no-undef
+  749:12  warning  'outputsum' is not defined                                                                                             no-undef
+  750:12  warning  'outputsum' is not defined                                                                                             no-undef
+  751:12  warning  'outputsum' is not defined                                                                                             no-undef
+  752:12  warning  'outputsum' is not defined                                                                                             no-undef
+  753:12  warning  'outputsum' is not defined                                                                                             no-undef
+
+✖ 191 problems (0 errors, 191 warnings)
+
