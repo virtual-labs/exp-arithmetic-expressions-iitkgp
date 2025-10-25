@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Full adder forms sum of",
+      "question": "Full adder forms sum of ____ significant bits",
       "answers": {
         "a": "2 bits",
         "b": "4 bits",
